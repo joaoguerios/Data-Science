@@ -5,4 +5,5 @@ This repository will cover data science and data analysis
   <li>Data Preprocessing</li>
   <li>Simple Linear Regression</li>
   <li>Multiple Linear Regression</li>
+  <li>Suport Vector Regression (SVR)</li>
 </ul>
