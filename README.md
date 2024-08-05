@@ -6,4 +6,6 @@ This repository will cover data science and data analysis
   <li>Simple Linear Regression</li>
   <li>Multiple Linear Regression</li>
   <li>Suport Vector Regression (SVR)</li>
+  <li>Decision Tree Regression</li>
+  <li>Random Forest Regression</li>
 </ul>
