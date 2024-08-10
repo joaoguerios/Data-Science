@@ -8,4 +8,7 @@ This repository will cover data science and data analysis
   <li>Suport Vector Regression (SVR)</li>
   <li>Decision Tree Regression</li>
   <li>Random Forest Regression</li>
+  <li>Logistic Regression</li>
+  <li>K-NN</li>
+  <li>SVM</li>
 </ul>
