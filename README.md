@@ -23,3 +23,8 @@ This repository will cover data science and data analysis using python
   <li>Decision Tree Classification</li>
   <li>Random Forest Classification</li>
 </ul>
+<h4>Clustering</h4>
+<ul>
+  <li>K-Means Clustering</li>
+  <li>Hierarchical Clustering</li>
+</ul>
