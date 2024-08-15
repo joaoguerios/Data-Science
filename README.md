@@ -28,3 +28,8 @@ This repository will cover data science and data analysis using python
   <li>K-Means Clustering</li>
   <li>Hierarchical Clustering</li>
 </ul>
+<h4>Association Rule</h4>
+<ul>
+  <li>Apriori</li>
+  <li>Eclat</li>
+</ul>
