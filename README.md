@@ -33,3 +33,8 @@ This repository will cover data science and data analysis using python
   <li>Apriori</li>
   <li>Eclat</li>
 </ul>
+<h4>Reinforcement Learning</h4>
+<ul>
+  <li>Upper Confidence Boudn (UCB)</li>
+  <li>Thompson Sampling</li>
+</ul>
