@@ -39,3 +39,8 @@ This repository will cover data science and data analysis using python
   <li>Thompson Sampling</li>
 </ul>
 <h4>Natural Processing Language (NLP)</h4>
+<h4>Deep Learning</h4>
+<ul>
+  <li>Artificial Neural Networks</li>
+  <li>Convolutional Neural Networks</li>
+</ul>
