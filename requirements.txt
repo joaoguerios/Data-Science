@@ -5,3 +5,4 @@ scikit-learn
 apyori
 nltk
 tensorflow
+seaborn
